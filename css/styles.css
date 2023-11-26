@@ -45,6 +45,9 @@ section{
     padding: 0 15px;
 }
 .top-line{
+    width: 1158px;
+    margin-right: auto;
+    margin-left: auto;
     display: flex;
 flex-shrink: 0;
 border-bottom: 1px solid #E7E9FC;
@@ -130,8 +133,15 @@ letter-spacing: 0.02em;
     color: #404bbf;
 }
 .first-section{
-    background-color:#2e2f42;
+    width: 1158px;
     padding: 188px 0;
+    margin-right: auto;
+    margin-left: auto;
+    background-color:#2e2f42;
+    background-image:linear-gradient( rgba(46, 47, 66, 0.70), rgba(46, 47, 66, 0.70)), url("../images/bg.jpg/people-office.jpg");
+    background-size: cover;
+
+
 }
 .main-item{
     color:  #FFF;
@@ -140,9 +150,7 @@ font-size: 56px;
 font-weight: 700;
 line-height:1.07;
 letter-spacing: 0.02em;
-background:  #2E2F42;
 max-width: 496px;
-
 margin-left: auto;
 margin-right: auto;
 
@@ -175,6 +183,11 @@ gap: 10px;
     height: 56px;
     border: none;
 }
+.second-section{
+    width: 1158px;
+    margin-right: auto;
+    margin-left: auto;
+}
 .headers-list{
     display: flex;
     justify-content: center;
@@ -203,6 +216,9 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 }
 .third-section{
+    width: 1158px;
+    margin-right: auto;
+    margin-left: auto;
     background-color: #F4F4FD;
 }
 .team{
@@ -249,6 +265,12 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 }
 
+.fourth-section{
+    width: 1158px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
 .portfolio{
     color:  #2E2F42;
 text-align: center;
@@ -291,6 +313,9 @@ letter-spacing: 0.02em;
 }
 
 .bottom-line{
+    width: 1158px;
+    margin-right: auto;
+    margin-left: auto;
     background:  #2E2F42;
     padding: 100px 0 ;
 }
