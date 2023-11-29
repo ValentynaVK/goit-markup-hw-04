@@ -57,7 +57,6 @@ box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.1
 .main-navigation{
     display: flex;
     align-items: center;
-    
 }
 .menu{
     display: flex;
@@ -258,7 +257,6 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 }
 .third-section{
-    width: 1158px;
     margin-right: auto;
     margin-left: auto;
     background-color: #F4F4FD;
@@ -412,7 +410,6 @@ letter-spacing: 0.02em;
 
 
 .bottom-line{
-    width: 1158px;
     margin-right: auto;
     margin-left: auto;
     background:  #2E2F42;
