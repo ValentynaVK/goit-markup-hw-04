@@ -1,0 +1,11 @@
+.features-section {
+  padding: 120px 0;
+}
+
+.features-list {
+  display: flex;
+  justify-content: space-between;
+}
+.features-item {
+  width: 264px;
+}

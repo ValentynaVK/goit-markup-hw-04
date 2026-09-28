@@ -1,0 +1,18 @@
+.footer-section {
+  padding: 100px 0;
+  background-color: #2e2f42;
+}
+.footer-container {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.footer-logo {
+  color: #f4f4fd;
+}
+
+.footer-caption {
+  max-width: 264px;
+  color: #f4f4fd;
+}
