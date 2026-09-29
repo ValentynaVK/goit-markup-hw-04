@@ -24,6 +24,9 @@
   display: block;
   width: 100%;
 }
+.member-position {
+  margin-bottom: 8px;
+}
 
 .member-descr {
   padding: 32px 16px;
