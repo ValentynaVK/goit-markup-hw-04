@@ -118,7 +118,6 @@ img {
   gap: 24px;
   align-items: center;
   justify-content: center;
-  margin-top: 8px;
 }
 .socials-item {
   width: 40px;
@@ -145,10 +144,10 @@ img {
 }
 
 .socials-icon {
-  color: #fff;
+  color: #f4f4fd;
 }
 .footer-socials-icon {
-  color: #fff;
+  color: #f4f4fd;
 }
 
 .bottom-socials {
