@@ -2,6 +2,12 @@
   padding: 100px 0;
   background-color: #2e2f42;
 }
+.footer-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
 .footer-container {
   display: flex;
   flex-direction: column;
@@ -15,4 +21,15 @@
 .footer-caption {
   max-width: 264px;
   color: #f4f4fd;
+}
+
+.footer-socials {
+  margin-left: 120px;
+}
+
+.media-caption {
+  margin-bottom: 16px;
+  font-weight: 500;
+  font-size: 16px;
+  color: #fff;
 }
