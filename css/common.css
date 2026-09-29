@@ -150,16 +150,10 @@ img {
   color: #f4f4fd;
 }
 
-.bottom-socials {
-  gap: 16px;
-}
+
 
 .socials-link:hover,
 .socials-link:focus {
   background-color: #404bbf;
 }
 
-.footer-link:hover,
-.footer-link:focus {
-  background-color: #31d0aa;
-}
